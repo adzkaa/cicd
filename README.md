@@ -4,5 +4,5 @@
 - Spring boot HATEOAS REST APIs
 - Unit tests
 - Integration tests
-- Mockitolg
+- Mockitoccc
 - JACOCO Coverage reports
